@@ -1,7 +1,5 @@
 # Google-Stock-Price-Prediction-LSTM-DL
 
-# Google Stock Price Dataset with LSTM RNN
-
 This repository contains code and data related to training a Long Short-Term Memory (LSTM) Recurrent Neural Network (RNN) model on the Google stock price dataset. The goal is to predict future stock prices based on historical data using deep learning techniques.
 
 ## Data Description
